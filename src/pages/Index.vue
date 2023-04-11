@@ -34,7 +34,7 @@
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div>Project One</div>
+            <div>Project three two one</div>
             <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
           </li>
           <li class="checkmark">
